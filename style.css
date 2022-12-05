@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.btnCustom {
+    margin-top: 2px;
+    border: 1px solid black;
+    padding: 5px 15px;
+}
+
+.btnCustom:hover {
+    background-color: rgba(0, 0, 0, 0.384);
+    border: none;
+}
+
+.size {
+    font-size: 24px;
+}
